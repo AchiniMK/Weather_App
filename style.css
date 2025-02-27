@@ -94,21 +94,21 @@ body{
 }
 
 @media screen and (max-width:500px){
-  .card{
-    width: 70%;
+    .card{
+        width: 70%;
     }
     .search input{
-    width: 70%;
-    margin-right: 10px;
-    font-size: 14px;
+        width: 70%;
+        margin-right: 10px;
+        font-size: 14px;
     }
     .search button{
-    width: 45px;
-    height: 45px;
-    cursor: pointer;
+        width: 45px;
+        height: 45px;
     }
+
     .search button img{
-    width: 14px;
+        width: 14px;
     }  
     }
 @media screen and (max-width:450px){
