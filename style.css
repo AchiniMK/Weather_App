@@ -118,12 +118,12 @@ body{
 }
 @media screen and (max-width:380px){
     .search input{
-        font-size: 10px;
+        font-size: 9px;
     }
 }
 @media screen and (max-width:350px){
     .search input{
-        font-size: 9px;
+        font-size: 8px;
     }
 }
 
